@@ -61,5 +61,5 @@ Divisione in batch per l'addestramento.
 Inizializzazione del Modello:
 
 Creazione del modello di diffusione e inizializzazione dei suoi parametri.
-Addestramento del Modello:
+
 
